@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi 👋 I'm Rahul Kumar  
 
-<!--
-**rahulkumar-cse2025/rahulkumar-cse2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Graduate (2025)  
+💼 Aspiring Associate Software Engineer | Full Stack Developer  
 
-Here are some ideas to get you started:
+🛠️ Technical Skills:
+- Java, Spring Boot
+- JavaScript, React
+- Node.js, Express
+- MongoDB, MySQL
+- HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Interests:
+- Backend Development
+- Full Stack Applications
+- Problem Solving
+
+📍 Dehradun, India
