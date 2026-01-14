@@ -1,4 +1,4 @@
-Hi 👋 I'm Rahul Kumar  
+Hi 👋 I'm Rahul Kumar
 
 🎓 Computer Science Engineering Graduate (2025)  
 💼 Aspiring Associate Software Engineer | Full Stack Developer  
@@ -10,9 +10,10 @@ Hi 👋 I'm Rahul Kumar
 - MongoDB, MySQL
 - HTML, CSS
 
-📌 Interests:
+📌 Areas of Interest:
 - Backend Development
-- Full Stack Applications
-- Problem Solving
+- Full Stack Web Applications
+- Problem Solving & Clean Code
 
-📍 Dehradun, India
+📍 Dehradun, Uttarakhand, India  
+(Originally from Bihar, India)
